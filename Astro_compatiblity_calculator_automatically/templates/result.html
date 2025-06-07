@@ -1,0 +1,93 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Result</title>
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Compatibility Score</h1>
+    <div class="score">{{ score }}%</div>
+    <a href="/">Check Another</a>
+  </div>
+</body>
+</html> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Real Astrological Compatibility</title>
+  <link rel="stylesheet" href="/static/css/style.css">
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #ffe29f, #ffa99f);
+      color: #2d2d2d;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      font-size: 3em;
+      color: #6a1b9a;
+      margin-bottom: 10px;
+    }
+    .description {
+      font-size: 1.3em;
+      color: #2e2e2e;
+      margin-bottom: 40px;
+      max-width: 700px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .score {
+      font-size: 4em;
+      font-weight: bold;
+      color: #0d47a1;
+      margin-bottom: 30px;
+    }
+    .details {
+      font-size: 1.2em;
+      margin-bottom: 20px;
+    }
+    .back-link {
+      display: inline-block;
+      margin-top: 30px;
+      font-size: 1.2em;
+      background: #6a1b9a;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 10px;
+      text-decoration: none;
+    }
+    .back-link:hover {
+      background-color: #9c27b0;
+    }
+  </style>
+</head>
+<body>
+  <h1>Real Astrological Compatibility</h1>
+  <div class="description">
+    Explore your cosmic connection based on ancient nakshatras, sun signs, and numerological Mulank. The stars may guide you—here’s your personalized compatibility score.
+  </div>
+  <div class="score">{{ score }}%</div>
+
+  <div class="details">
+    <p><strong>Person 1:</strong></p>
+    <p>Nakshatra: {{ nakshatra1 }}</p>
+    <p>Sun Sign: {{ sun_sign1 }}</p>
+    <p>Mulank : {{ mulank1 }}</p>
+    <p>Life Path : {{ life_path1 }}</p>
+  </div>
+
+  <div class="details">
+    <p><strong>Person 2:</strong></p>
+    <p>Nakshatra: {{ nakshatra2 }}</p>
+    <p>Sun Sign: {{ sun_sign2 }}</p>
+    <p>Mulank: {{ mulank2 }}</p>
+    <p>Life Path : {{ life_path2 }}</p>
+  </div>
+
+  <a class="back-link" href="/">Check Another Compatibility</a>
+</body>
+</html>

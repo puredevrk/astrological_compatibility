@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Astrological Compatibility Checker</title>
+  <link rel="stylesheet" href="/static/css/style.css">
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #c8e6c9, #a5d6a7);
+      color: #1b5e20;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      font-size: 3em;
+      color: #2e7d32;
+      margin-bottom: 10px;
+    }
+    .description {
+      font-size: 1.3em;
+      color: #33691e;
+      margin-bottom: 40px;
+      max-width: 700px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    form {
+      background-color: #e8f5e9;
+      padding: 30px;
+      border-radius: 15px;
+      display: inline-block;
+      text-align: left;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    }
+    label {
+      display: block;
+      font-weight: bold;
+      margin-top: 15px;
+      color: #2e7d32;
+    }
+    input, select {
+      width: 100%;
+      padding: 8px;
+      margin-top: 5px;
+      border: 1px solid #a5d6a7;
+      border-radius: 6px;
+    }
+    button {
+      margin-top: 25px;
+      width: 100%;
+      background-color: #388e3c;
+      color: white;
+      padding: 12px;
+      border: none;
+      border-radius: 6px;
+      font-size: 1em;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #2e7d32;
+    }
+  </style>
+</head>
+<body>
+  <h1>Real Astrological Compatibility</h1>
+  <div class="description">
+    Discover how well you align with someone based on Vedic astrology — using Nakshatras, Sun Signs, and Numerology (Mulank).
+  </div>
+  
+  <form method="POST">
+    <h3>Person 1 Data</h3>
+    <label for="dob1">Date of Birth (Person 1):</label>
+    <input type="date" id="dob1" name="dob1" required>
+
+    <label for="nakshatra1">Nakshatra (Person 1):</label>
+    <select id="nakshatra1" name="nakshatra1" required>
+      <option value="">Select Nakshatra</option>
+      {% for n in ['Ashwini','Bharani','Krittika','Rohini','Mrigashirsha','Ardra','Punarvasu','Pushya','Ashlesha','Magha','Purva Phalguni','Uttara Phalguni','Hasta','Chitra','Swati','Vishakha','Anuradha','Jyeshta','Mula','Purva Ashadha','Uttara Ashadha','Shravana','Dhanishta','Shatabhisha','Purva Bhadrapada','Uttara Bhadrapada','Revati'] %}
+        <option value="{{n}}">{{n}}</option>
+      {% endfor %}
+    </select>
+
+   
+
+    <hr style="margin: 30px 0;">
+    <h3>Person 2 Data</h3>
+
+    <label for="dob2">Date of Birth (Person 2):</label>
+    <input type="date" id="dob2" name="dob2" required>
+
+    <label for="nakshatra2">Nakshatra (Person 2):</label>
+    <select id="nakshatra2" name="nakshatra2" required>
+      <option value="">Select Nakshatra</option>
+      {% for n in ['Ashwini','Bharani','Krittika','Rohini','Mrigashirsha','Ardra','Punarvasu','Pushya','Ashlesha','Magha','Purva Phalguni','Uttara Phalguni','Hasta','Chitra','Swati','Vishakha','Anuradha','Jyeshta','Mula','Purva Ashadha','Uttara Ashadha','Shravana','Dhanishta','Shatabhisha','Purva Bhadrapada','Uttara Bhadrapada','Revati'] %}
+        <option value="{{n}}">{{n}}</option>
+      {% endfor %}
+    </select>
+
+   
+
+    <button type="submit">Check Compatibility</button>
+  </form>
+</body>
+</html>
