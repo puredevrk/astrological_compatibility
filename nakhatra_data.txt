@@ -1,731 +1,731 @@
 nakhatra1,nakhatra2,compatibility
-Revati,Ashwini,0.72
-Revati,Bharani,0.69
-Revati,Krittika,0.32
-Revati,Rohini,0.53
-Revati,Mrigashirsha,0.74
-Revati,Ardra,0.72
-Revati,Punarvasu,0.69
-Revati,Pushya,0.72
-Revati,Ashlesha,0.33
-Revati,Magha,0.33
-Revati,Purva Phalguni,0.67
-Revati,Uttara Phalguni,0.69
-Revati,Hasta,0.66
-Revati,Chitra,0.43
-Revati,Swati,0.24
-Revati,Vishakha,0.18
-Revati,Anuradha,0.72
-Revati,Jyeshta,0.55
-Revati,Mula,0.72
-Revati,Purva Ashadha,0.83
-Revati,Uttara Ashadha,0.55
-Revati,Shravana,0.64
-Revati,Dhanishta,0.36
-Revati,Shatabhisha,0.42
-Revati,Purva Bhadrapada,0.68
-Revati,Uttara Bhadrapada,0.91
-Revati,Revati,0.77
-Uttara Bhadra,Ashwini,0.64
-Uttara Bhadra,Bharani,0.11
-Uttara Bhadra,Krittika,0.50
-Uttara Bhadra,Rohini,0.75
-Uttara Bhadra,Mrigashirsha,0.49
-Uttara Bhadra,Ardra,0.72
-Uttara Bhadra,Punarvasu,0.70
-Uttara Bhadra,Pushya,0.50
-Uttara Bhadra,Ashlesha,0.55
-Uttara Bhadra,Magha,0.50
-Uttara Bhadra,Purva Phalguni,0.44
-Uttara Bhadra,Uttara Phalguni,0.75
-Uttara Bhadra,Hasta,0.72
-Uttara Bhadra,Chitra,0.18
-Uttara Bhadra,Swati,0.53
-Uttara Bhadra,Vishakha,0.41
-Uttara Bhadra,Anuradha,0.47
-Uttara Bhadra,Jyeshta,0.55
-Uttara Bhadra,Mula,0.66
-Uttara Bhadra,Purva Ashadha,0.61
-Uttara Bhadra,Uttara Ashadha,0.83
-Uttara Bhadra,Shravana,0.80
-Uttara Bhadra,Dhanishta,0.17
-Uttara Bhadra,Shatabhisha,0.66
-Uttara Bhadra,Purva Bhadrapada,0.76
-Uttara Bhadra,Uttara Bhadrapada,0.77
-Uttara Bhadra,Revati,0.91
-Poorva Bhadrapada,Ashwini,0.42
-Poorva Bhadrapada,Bharani,0.62
-Poorva Bhadrapada,Krittika,0.54
-Poorva Bhadrapada,Rohini,0.60
-Poorva Bhadrapada,Mrigashirsha,0.69
-Poorva Bhadrapada,Ardra,0.48
-Poorva Bhadrapada,Punarvasu,0.41
-Poorva Bhadrapada,Pushya,0.60
-Poorva Bhadrapada,Ashlesha,0.39
-Poorva Bhadrapada,Magha,0.47
-Poorva Bhadrapada,Purva Phalguni,0.64
-Poorva Bhadrapada,Uttara Phalguni,0.39
-Poorva Bhadrapada,Hasta,0.38
-Poorva Bhadrapada,Chitra,0.45
-Poorva Bhadrapada,Swati,0.60
-Poorva Bhadrapada,Vishakha,0.49
-Poorva Bhadrapada,Anuradha,0.66
-Poorva Bhadrapada,Jyeshta,0.26
-Poorva Bhadrapada,Mula,0.41
-Poorva Bhadrapada,Purva Ashadha,0.66
-Poorva Bhadrapada,Uttara Ashadha,0.66
-Poorva Bhadrapada,Shravana,0.66
-Poorva Bhadrapada,Dhanishta,0.58
-Poorva Bhadrapada,Shatabhisha,0.51
-Poorva Bhadrapada,Purva Bhadrapada,0.68
-Poorva Bhadrapada,Uttara Bhadrapada,0.76
-Poorva Bhadrapada,Revati,0.68
-Shatabhisha,Ashwini,0.66
-Shatabhisha,Bharani,0.50
-Shatabhisha,Krittika,0.50
-Shatabhisha,Rohini,0.30
-Shatabhisha,Mrigashirsha,0.50
-Shatabhisha,Ardra,0.72
-Shatabhisha,Punarvasu,0.70
-Shatabhisha,Pushya,0.32
-Shatabhisha,Ashlesha,0.47
-Shatabhisha,Magha,0.38
-Shatabhisha,Purva Phalguni,0.32
-Shatabhisha,Uttara Phalguni,0.47
-Shatabhisha,Hasta,0.50
-Shatabhisha,Chitra,0.60
-Shatabhisha,Swati,0.80
-Shatabhisha,Vishakha,0.20
-Shatabhisha,Anuradha,0.30
-Shatabhisha,Jyeshta,0.68
-Shatabhisha,Mula,0.42
-Shatabhisha,Purva Ashadha,0.40
-Shatabhisha,Uttara Ashadha,0.47
-Shatabhisha,Shravana,0.68
-Shatabhisha,Dhanishta,0.58
-Shatabhisha,Shatabhisha,0.72
-Shatabhisha,Purva Bhadrapada,0.51
-Shatabhisha,Uttara Bhadrapada,0.66
-Shatabhisha,Revati,0.42
-Dhanishta,Ashwini,0.53
-Dhanishta,Bharani,0.26
-Dhanishta,Krittika,0.70
-Dhanishta,Rohini,0.53
-Dhanishta,Mrigashirsha,0.35
-Dhanishta,Ardra,0.50
-Dhanishta,Punarvasu,0.46
-Dhanishta,Pushya,0.24
-Dhanishta,Ashlesha,0.60
-Dhanishta,Magha,0.55
-Dhanishta,Purva Phalguni,0.19
-Dhanishta,Uttara Phalguni,0.40
-Dhanishta,Hasta,0.51
-Dhanishta,Chitra,0.50
-Dhanishta,Swati,0.65
-Dhanishta,Vishakha,0.70
-Dhanishta,Anuradha,0.31
-Dhanishta,Jyeshta,0.68
-Dhanishta,Mula,0.65
-Dhanishta,Purva Ashadha,0.26
-Dhanishta,Uttara Ashadha,0.51
-Dhanishta,Shravana,0.61
-Dhanishta,Dhanishta,0.63
-Dhanishta,Shatabhisha,0.77
-Dhanishta,Purva Bhadrapada,0.58
-Dhanishta,Uttara Bhadrapada,0.17
-Dhanishta,Revati,0.36
-Shravana,Ashwini,0.72
-Shravana,Bharani,0.77
-Shravana,Krittika,0.32
-Shravana,Rohini,0.50
-Shravana,Mrigashirsha,0.39
-Shravana,Ardra,0.61
-Shravana,Punarvasu,0.68
-Shravana,Pushya,0.75
-Shravana,Ashlesha,0.36
-Shravana,Magha,0.11
-Shravana,Purva Phalguni,0.50
-Shravana,Uttara Phalguni,0.61
-Shravana,Hasta,0.66
-Shravana,Chitra,0.58
-Shravana,Swati,0.61
-Shravana,Vishakha,0.36
-Shravana,Anuradha,0.72
-Shravana,Jyeshta,0.55
-Shravana,Mula,0.39
-Shravana,Purva Ashadha,0.61
-Shravana,Uttara Ashadha,0.58
-Shravana,Shravana,0.77
-Shravana,Dhanishta,0.61
-Shravana,Shatabhisha,0.47
-Shravana,Purva Bhadrapada,0.66
-Shravana,Uttara Bhadrapada,0.80
-Shravana,Revati,0.64
-Uttara Ashadha,Ashwini,0.66
-Uttara Ashadha,Bharani,0.72
-Uttara Ashadha,Krittika,0.30
-Uttara Ashadha,Rohini,0.37
-Uttara Ashadha,Mrigashirsha,0.55
-Uttara Ashadha,Ardra,0.67
-Uttara Ashadha,Punarvasu,0.58
-Uttara Ashadha,Pushya,0.63
-Uttara Ashadha,Ashlesha,0.27
-Uttara Ashadha,Magha,0.15
-Uttara Ashadha,Purva Phalguni,0.60
-Uttara Ashadha,Uttara Phalguni,0.68
-Uttara Ashadha,Hasta,0.64
-Uttara Ashadha,Chitra,0.55
-Uttara Ashadha,Swati,0.55
-Uttara Ashadha,Vishakha,0.32
-Uttara Ashadha,Anuradha,0.64
-Uttara Ashadha,Jyeshta,0.50
-Uttara Ashadha,Moola,0.36
-Uttara Ashadha,Purva Ashadha,0.77
-Uttara Ashadha,Uttara Ashadha,0.68
-Uttara Ashadha,Shravana,0.58
-Uttara Ashadha,Dhanishta,0.52
-Uttara Ashadha,Shatabhisha,0.63
-Uttara Ashadha,Purva Bhadrapada,0.66
-Uttara Ashadha,Uttara Bhadrapada,0.83
-Uttara Ashadha,Revati,0.55
-Purva Ashadha,Ashwini,0.66
-Purva Ashadha,Bharani,0.47
-Purva Ashadha,Krittika,0.47
-Purva Ashadha,Rohini,0.53
-Purva Ashadha,Mrigashirsha,0.40
-Purva Ashadha,Ardra,0.77
-Purva Ashadha,Punarvasu,0.65
-Purva Ashadha,Pushya,0.33
-Purva Ashadha,Ashlesha,0.42
-Purva Ashadha,Magha,0.53
-Purva Ashadha,Purva Phalguni,0.50
-Purva Ashadha,Uttara Phalguni,0.75
-Purva Ashadha,Hasta,0.75
-Purva Ashadha,Chitra,0.36
-Purva Ashadha,Swati,0.75
-Purva Ashadha,Vishakha,0.38
-Purva Ashadha,Anuradha,0.36
-Purva Ashadha,Jyeshta,0.44
-Purva Ashadha,Mula,0.77
-Purva Ashadha,Purva Ashadha,0.77
-Purva Ashadha,Uttara Ashadha,0.77
-Purva Ashadha,Shravana,0.61
-Purva Ashadha,Dhanishta,0.26
-Purva Ashadha,Shatabhisha,0.64
-Purva Ashadha,Purva Bhadrapada,0.66
-Purva Ashadha,Uttara Bhadrapada,0.61
-Purva Ashadha,Revati,0.83
-Mula,Ashwini,0.33
-Mula,Bharani,0.53
-Mula,Krittika,0.65
-Mula,Rohini,0.36
-Mula,Mrigashirsha,0.51
-Mula,Ardra,0.42
-Mula,Punarvasu,0.29
-Mula,Pushya,0.47
-Mula,Ashlesha,0.61
-Mula,Magha,0.66
-Mula,Purva Phalguni,0.35
-Mula,Uttara Phalguni,0.32
-Mula,Hasta,0.42
-Mula,Chitra,0.75
-Mula,Swati,0.63
-Mula,Vishakha,0.66
-Mula,Anuradha,0.41
-Mula,Jyeshta,0.39
-Mula,Mula,0.77
-Mula,Purva Ashadha,0.77
-Mula,Uttara Ashadha,0.36
-Mula,Shravana,0.39
-Mula,Dhanishta,0.65
-Mula,Shatabhisha,0.58
-Mula,Purva Bhadrapada,0.41
-Mula,Uttara Bhadrapada,0.66
-Mula,Revati,0.72
-Jyeshta,Ashwini,0.36
-Jyeshta,Bharani,0.53
-Jyeshta,Krittika,0.76
-Jyeshta,Rohini,0.67
-Jyeshta,Mrigashirsha,0.53
-Jyeshta,Ardra,0.14
-Jyeshta,Punarvasu,0.22
-Jyeshta,Pushya,0.55
-Jyeshta,Ashlesha,0.69
-Jyeshta,Magha,0.88
-Jyeshta,Purva Phalguni,0.66
-Jyeshta,Uttara Phalguni,0.39
-Jyeshta,Hasta,0.36
-Jyeshta,Chitra,0.62
-Jyeshta,Swati,0.41
-Jyeshta,Vishakha,0.72
-Jyeshta,Anuradha,0.86
-Jyeshta,Jyeshta,0.77
-Jyeshta,Mula,0.39
-Jyeshta,Purva Ashadha,0.44
-Jyeshta,Uttara Ashadha,0.50
-Jyeshta,Shravana,0.55
-Jyeshta,Dhanishta,0.68
-Jyeshta,Shatabhisha,0.47
-Jyeshta,Purva Bhadrapada,0.26
-Jyeshta,Uttara Bhadrapada,0.55
-Jyeshta,Revati,0.55
-Anuradha,Ashwini,0.66
-Anuradha,Bharani,0.47
-Anuradha,Krittika,0.60
-Anuradha,Rohini,0.80
-Anuradha,Mrigashirsha,0.47
-Anuradha,Ardra,0.53
-Anuradha,Punarvasu,0.62
-Anuradha,Pushya,0.47
-Anuradha,Ashlesha,0.53
-Anuradha,Magha,0.66
-Anuradha,Purva Phalguni,0.62
-Anuradha,Uttara Phalguni,0.80
-Anuradha,Hasta,0.72
-Anuradha,Chitra,0.23
-Anuradha,Swati,0.58
-Anuradha,Vishakha,0.59
-Anuradha,Anuradha,0.77
-Anuradha,Jyeshta,0.86
-Anuradha,Mula,0.41
-Anuradha,Purva Ashadha,0.36
-Anuradha,Uttara Ashadha,0.64
-Anuradha,Shravana,0.72
-Anuradha,Dhanishta,0.32
-Anuradha,Shatabhisha,0.61
-Anuradha,Purva Bhadrapada,0.66
-Anuradha,Uttara Bhadrapada,0.47
-Anuradha,Revati,0.72
-Vishakha,Ashwini,0.55
-Vishakha,Bharani,0.50
-Vishakha,Krittika,0.51
-Vishakha,Rohini,0.30
-Vishakha,Mrigashirsha,0.50
-Vishakha,Ardra,0.46
-Vishakha,Punarvasu,0.51
-Vishakha,Pushya,0.54
-Vishakha,Ashlesha,0.41
-Vishakha,Magha,0.54
-Vishakha,Purva Phalguni,0.55
-Vishakha,Uttara Phalguni,0.50
-Vishakha,Hasta,0.53
-Vishakha,Chitra,0.74
-Vishakha,Swati,0.40
-Vishakha,Vishakha,0.60
-Vishakha,Anuradha,0.59
-Vishakha,Jyeshta,0.72
-Vishakha,Mula,0.66
-Vishakha,Purva Ashadha,0.38
-Vishakha,Uttara Ashadha,0.32
-Vishakha,Shravana,0.36
-Vishakha,Dhanishta,0.70
-Vishakha,Shatabhisha,0.70
-Vishakha,Purva Bhadrapada,0.49
-Vishakha,Uttara Bhadrapada,0.41
-Vishakha,Revati,0.18
-Swati,Ashwini,0.70
-Swati,Bharani,0.78
-Swati,Krittika,0.32
-Swati,Rohini,0.42
-Swati,Mrigashirsha,0.50
-Swati,Ardra,0.75
-Swati,Punarvasu,0.74
-Swati,Pushya,0.69
-Swati,Ashlesha,0.30
-Swati,Magha,0.27
-Swati,Purva Phalguni,0.66
-Swati,Uttara Phalguni,0.69
-Swati,Hasta,0.72
-Swati,Chitra,0.65
-Swati,Swati,0.77
-Swati,Vishakha,0.40
-Swati,Anuradha,0.58
-Swati,Jyeshta,0.41
-Swati,Mula,0.63
-Swati,Purva Ashadha,0.75
-Swati,Uttara Ashadha,0.55
-Swati,Shravana,0.61
-Swati,Dhanishta,0.65
-Swati,Shatabhisha,0.61
-Swati,Purva Bhadrapada,0.60
-Swati,Uttara Bhadrapada,0.53
-Swati,Revati,0.24
-Chitra,Ashwini,0.47
-Chitra,Bharani,0.22
-Chitra,Krittika,0.61
-Chitra,Rohini,0.49
-Chitra,Mrigashirsha,0.37
-Chitra,Ardra,0.65
-Chitra,Punarvasu,0.58
-Chitra,Pushya,0.30
-Chitra,Ashlesha,0.67
-Chitra,Magha,0.58
-Chitra,Purva Phalguni,0.19
-Chitra,Uttara Phalguni,0.47
-Chitra,Hasta,0.79
-Chitra,Chitra,0.66
-Chitra,Swati,0.65
-Chitra,Vishakha,0.74
-Chitra,Anuradha,0.23
-Chitra,Jyeshta,0.62
-Chitra,Mula,0.75
-Chitra,Purva Ashadha,0.36
-Chitra,Uttara Ashadha,0.55
-Chitra,Shravana,0.58
-Chitra,Dhanishta,0.50
-Chitra,Shatabhisha,0.69
-Chitra,Purva Bhadrapada,0.45
-Chitra,Uttara Bhadrapada,0.18
-Chitra,Revati,0.43
-Hasta,Ashwini,0.27
-Hasta,Bharani,0.50
-Hasta,Krittika,0.44
-Hasta,Rohini,0.69
-Hasta,Mrigashirsha,0.82
-Hasta,Ardra,0.67
-Hasta,Punarvasu,0.57
-Hasta,Pushya,0.69
-Hasta,Ashlesha,0.53
-Hasta,Magha,0.39
-Hasta,Purva Phalguni,0.55
-Hasta,Uttara Phalguni,0.58
-Hasta,Hasta,0.77
-Hasta,Chitra,0.79
-Hasta,Swati,0.72
-Hasta,Vishakha,0.53
-Hasta,Anuradha,0.72
-Hasta,Jyeshta,0.36
-Hasta,Mula,0.42
-Hasta,Purva Ashadha,0.75
-Hasta,Uttara Ashadha,0.64
-Hasta,Shravana,0.66
-Hasta,Dhanishta,0.51
-Hasta,Shatabhisha,0.27
-Hasta,Purva Bhadrapada,0.38
-Hasta,Uttara Bhadrapada,0.72
-Hasta,Revati,0.66
-Uttara Phalguni,Ashwini,0.34
-Uttara Phalguni,Bharani,0.60
-Uttara Phalguni,Krittika,0.53
-Uttara Phalguni,Rohini,0.72
-Uttara Phalguni,Mrigashirsha,0.73
-Uttara Phalguni,Ardra,0.61
-Uttara Phalguni,Punarvasu,0.50
-Uttara Phalguni,Pushya,0.52
-Uttara Phalguni,Ashlesha,0.50
-Uttara Phalguni,Magha,0.55
-Uttara Phalguni,Purva Phalguni,0.80
-Uttara Phalguni,Uttara Phalguni,0.61
-Uttara Phalguni,Hasta,0.58
-Uttara Phalguni,Chitra,0.47
-Uttara Phalguni,Swati,0.69
-Uttara Phalguni,Vishakha,0.50
-Uttara Phalguni,Anuradha,0.80
-Uttara Phalguni,Jyeshta,0.39
-Uttara Phalguni,Mula,0.32
-Uttara Phalguni,Purva Ashadha,0.75
-Uttara Phalguni,Uttara Ashadha,0.68
-Uttara Phalguni,Shravana,0.61
-Uttara Phalguni,Dhanishta,0.40
-Uttara Phalguni,Shatabhisha,0.37
-Uttara Phalguni,Purva Bhadrapada,0.39
-Uttara Phalguni,Uttara Bhadrapada,0.75
-Uttara Phalguni,Revati,0.69
-Purva Phalguni,Ashwini,0.67
-Purva Phalguni,Bharani,0.47
-Purva Phalguni,Krittika,0.43
-Purva Phalguni,Rohini,0.66
-Purva Phalguni,Mrigashirsha,0.46
-Purva Phalguni,Ardra,0.75
-Purva Phalguni,Punarvasu,0.62
-Purva Phalguni,Pushya,0.39
-Purva Phalguni,Ashlesha,0.41
-Purva Phalguni,Magha,0.83
-Purva Phalguni,Purva Phalguni,0.77
-Purva Phalguni,Uttara Phalguni,0.80
-Purva Phalguni,Hasta,0.55
-Purva Phalguni,Chitra,0.19
-Purva Phalguni,Swati,0.66
-Purva Phalguni,Vishakha,0.55
-Purva Phalguni,Anuradha,0.61
-Purva Phalguni,Jyeshta,0.66
-Purva Phalguni,Mula,0.53
-Purva Phalguni,Purva Ashadha,0.50
-Purva Phalguni,Uttara Ashadha,0.60
-Purva Phalguni,Shravana,0.50
-Purva Phalguni,Dhanishta,0.19
-Purva Phalguni,Shatabhisha,0.50
-Purva Phalguni,Purva Bhadrapada,0.64
-Purva Phalguni,Uttara Bhadrapada,0.44
-Purva Phalguni,Revati,0.67
-Magha,Ashwini,0.55
-Magha,Bharani,0.53
-Magha,Krittika,0.47
-Magha,Rohini,0.28
-Magha,Mrigashirsha,0.57
-Magha,Ardra,0.58
-Magha,Punarvasu,0.51
-Magha,Pushya,0.50
-Magha,Ashlesha,0.41
-Magha,Magha,0.77
-Magha,Purva Phalguni,0.83
-Magha,Uttara Phalguni,0.55
-Magha,Hasta,0.39
-Magha,Chitra,0.58
-Magha,Swati,0.27
-Magha,Vishakha,0.54
-Magha,Anuradha,0.66
-Magha,Jyeshta,0.88
-Magha,Mula,0.66
-Magha,Purva Ashadha,0.53
-Magha,Uttara Ashadha,0.15
-Magha,Shravana,0.11
-Magha,Dhanishta,0.55
-Magha,Shatabhisha,0.66
-Magha,Purva Bhadrapada,0.47
-Magha,Uttara Bhadrapada,0.50
-Magha,Revati,0.33
-Ashlesha,Ashwini,0.75
-Ashlesha,Bharani,0.66
-Ashlesha,Krittika,0.57
-Ashlesha,Rohini,0.33
-Ashlesha,Mrigashirsha,0.47
-Ashlesha,Ardra,0.33
-Ashlesha,Punarvasu,0.60
-Ashlesha,Pushya,0.80
-Ashlesha,Ashlesha,0.77
-Ashlesha,Magha,0.41
-Ashlesha,Purva Phalguni,0.41
-Ashlesha,Uttara Phalguni,0.50
-Ashlesha,Hasta,0.53
-Ashlesha,Chitra,0.67
-Ashlesha,Swati,0.30
-Ashlesha,Vishakha,0.41
-Ashlesha,Anuradha,0.53
-Ashlesha,Jyeshta,0.69
-Ashlesha,Mula,0.61
-Ashlesha,Purva Ashadha,0.42
-Ashlesha,Uttara Ashadha,0.27
-Ashlesha,Shravana,0.36
-Ashlesha,Dhanishta,0.60
-Ashlesha,Shatabhisha,0.50
-Ashlesha,Purva Bhadrapada,0.39
-Ashlesha,Uttara Bhadrapada,0.55
-Ashlesha,Revati,0.33
-Pushya,Ashwini,0.83
-Pushya,Bharani,0.61
-Pushya,Krittika,0.68
-Pushya,Rohini,0.75
-Pushya,Mrigashirsha,0.41
-Pushya,Ardra,0.55
-Pushya,Punarvasu,0.76
-Pushya,Pushya,0.77
-Pushya,Ashlesha,0.80
-Pushya,Magha,0.50
-Pushya,Purva Phalguni,0.39
-Pushya,Uttara Phalguni,0.52
-Pushya,Hasta,0.69
-Pushya,Chitra,0.39
-Pushya,Swati,0.69
-Pushya,Vishakha,0.54
-Pushya,Anuradha,0.47
-Pushya,Jyeshta,0.55
-Pushya,Mula,0.47
-Pushya,Purva Ashadha,0.33
-Pushya,Uttara Ashadha,0.63
-Pushya,Shravana,0.75
-Pushya,Dhanishta,0.24
-Pushya,Shatabhisha,0.36
-Pushya,Purva Bhadrapada,0.60
-Pushya,Uttara Bhadrapada,0.50
-Pushya,Revati,0.72
-Punarvasu,Ashwini,0.55
-Punarvasu,Bharani,0.76
-Punarvasu,Krittika,0.56
-Punarvasu,Rohini,0.66
-Punarvasu,Mrigashirsha,0.67
-Punarvasu,Ardra,0.51
-Punarvasu,Punarvasu,0.57
-Punarvasu,Pushya,0.76
-Punarvasu,Ashlesha,0.60
-Punarvasu,Magha,0.51
-Punarvasu,Purva Phalguni,0.62
-Punarvasu,Uttara Phalguni,0.50
-Punarvasu,Hasta,0.57
-Punarvasu,Chitra,0.58
-Punarvasu,Swati,0.74
-Punarvasu,Vishakha,0.51
-Punarvasu,Anuradha,0.62
-Punarvasu,Jyeshta,0.22
-Punarvasu,Mula,0.29
-Punarvasu,Purva Ashadha,0.65
-Punarvasu,Uttara Ashadha,0.58
-Punarvasu,Shravana,0.68
-Punarvasu,Dhanishta,0.46
-Punarvasu,Shatabhisha,0.25
-Punarvasu,Purva Bhadrapada,0.41
-Punarvasu,Uttara Bhadrapada,0.70
-Punarvasu,Revati,0.69
-Ardra,Ashwini,0.44
-Ardra,Bharani,0.69
-Ardra,Krittika,0.49
-Ardra,Rohini,0.64
-Ardra,Mrigashirsha,0.78
-Ardra,Ardra,0.77
-Ardra,Punarvasu,0.51
-Ardra,Pushya,0.55
-Ardra,Ashlesha,0.33
-Ardra,Magha,0.58
-Ardra,Purva Phalguni,0.75
-Ardra,Uttara Phalguni,0.61
-Ardra,Hasta,0.67
-Ardra,Chitra,0.65
-Ardra,Swati,0.75
-Ardra,Vishakha,0.46
-Ardra,Anuradha,0.53
-Ardra,Jyeshta,0.14
-Ardra,Mula,0.42
-Ardra,Purva Ashadha,0.77
-Ardra,Uttara Ashadha,0.64
-Ardra,Shravana,0.61
-Ardra,Dhanishta,0.50
-Ardra,Shatabhisha,0.33
-Ardra,Purva Bhadrapada,0.48
-Ardra,Uttara Bhadrapada,0.72
-Ardra,Revati,0.72
-Mrigasira,Ashwini,0.61
-Mrigasira,Bharani,0.43
-Mrigasira,Krittika,0.54
-Mrigasira,Rohini,0.77
-Mrigasira,Mrigasira,0.64
-Mrigasira,Ardra,0.78
-Mrigasira,Punarvasu,0.67
-Mrigasira,Pushya,0.41
-Mrigasira,Ashlesha,0.47
-Mrigasira,Magha,0.57
-Mrigasira,Purva Phalguni,0.46
-Mrigasira,Uttara Phalguni,0.73
-Mrigasira,Hasta,0.82
-Mrigasira,Chitra,0.37
-Mrigasira,Swati,0.50
-Mrigasira,Vishakha,0.50
-Mrigasira,Anuradha,0.47
-Mrigasira,Jyeshta,0.53
-Mrigasira,Mula,0.51
-Mrigasira,Purva Ashadha,0.40
-Mrigasira,Uttara Ashadha,0.55
-Mrigasira,Shravana,0.39
-Mrigasira,Dhanishta,0.35
-Mrigasira,Shatabhisha,0.65
-Mrigasira,Purva Bhadrapada,0.69
-Mrigasira,Uttara Bhadrapada,0.49
-Mrigasira,Revati,0.74
-Rohini,Ashwini,0.62
-Rohini,Bharani,0.64
-Rohini,Krittika,0.30
-Rohini,Rohini,0.55
-Rohini,Mrigashirsha,0.77
-Rohini,Ardra,0.64
-Rohini,Punarvasu,0.66
-Rohini,Pushya,0.75
-Rohini,Ashlesha,0.33
-Rohini,Magha,0.28
-Rohini,Purva Phalguni,0.66
-Rohini,Uttara Phalguni,0.72
-Rohini,Hasta,0.69
-Rohini,Chitra,0.49
-Rohini,Swati,0.42
-Rohini,Vishakha,0.30
-Rohini,Anuradha,0.80
-Rohini,Jyeshta,0.67
-Rohini,Mula,0.36
-Rohini,Purva Ashadha,0.53
-Rohini,Uttara Ashadha,0.37
-Rohini,Shravana,0.50
-Rohini,Dhanishta,0.53
-Rohini,Shatabhisha,0.76
-Rohini,Purva Bhadrapada,0.60
-Rohini,Uttara Bhadrapada,0.75
-Rohini,Revati,0.53
-Krittika,Ashwini,0.61
-Krittika,Bharani,0.65
-Krittika,Krittika,0.65
-Krittika,Rohini,0.30
-Krittika,Mrigashirsha,0.54
-Krittika,Ardra,0.49
-Krittika,Punarvasu,0.56
-Krittika,Pushya,0.68
-Krittika,Ashlesha,0.57
-Krittika,Magha,0.47
-Krittika,Purva Phalguni,0.43
-Krittika,Uttara Phalguni,0.53
-Krittika,Hasta,0.44
-Krittika,Chitra,0.61
-Krittika,Swati,0.32
-Krittika,Vishakha,0.51
-Krittika,Anuradha,0.60
-Krittika,Jyeshta,0.76
-Krittika,Mula,0.65
-Krittika,Purva Ashadha,0.47
-Krittika,Uttara Ashadha,0.30
-Krittika,Shravana,0.32
-Krittika,Dhanishta,0.70
-Krittika,Shatabhisha,0.75
-Krittika,Purva Bhadrapada,0.54
-Krittika,Uttara Bhadrapada,0.50
-Krittika,Revati,0.32
-Bharani,Ashwini,0.91
-Bharani,Bharani,0.77
-Bharani,Krittika,0.65
-Bharani,Rohini,0.64
-Bharani,Mrigashirsha,0.43
-Bharani,Ardra,0.69
-Bharani,Punarvasu,0.76
-Bharani,Pushya,0.61
-Bharani,Ashlesha,0.66
-Bharani,Magha,0.53
-Bharani,Purva Phalguni,0.47
-Bharani,Uttara Phalguni,0.60
-Bharani,Hasta,0.50
-Bharani,Chitra,0.22
-Bharani,Swati,0.78
-Bharani,Vishakha,0.50
-Bharani,Anuradha,0.47
-Bharani,Jyeshta,0.35
-Bharani,Mula,0.35
-Bharani,Purva Ashadha,0.47
-Bharani,Uttara Ashadha,0.72
-Bharani,Shravana,0.77
-Bharani,Dhanishta,0.26
-Bharani,Shatabhisha,0.53
-Bharani,Purva Bhadrapada,0.62
-Bharani,Uttara Bhadrapada,0.11
-Bharani,Revati,0.69
-Ashwini,Ashwini,0.77
-Ashwini,Bharani,0.91
-Ashwini,Krittika,0.61
-Ashwini,Rohini,0.62
-Ashwini,Mrigashirsha,0.61
-Ashwini,Ardra,0.44
-Ashwini,Punarvasu,0.55
-Ashwini,Pushya,0.83
-Ashwini,Ashlesha,0.75
-Ashwini,Magha,0.55
-Ashwini,Purva Phalguni,0.67
-Ashwini,Uttara Phalguni,0.34
-Ashwini,Hasta,0.27
-Ashwini,Chitra,0.47
-Ashwini,Swati,0.70
-Ashwini,Vishakha,0.55
-Ashwini,Anuradha,0.66
-Ashwini,Jyeshta,0.36
-Ashwini,Mula,0.33
-Ashwini,Purva Ashadha,0.66
-Ashwini,Uttara Ashadha,0.66
-Ashwini,Shravana,0.72
-Ashwini,Dhanishta,0.53
-Ashwini,Shatabhisha,0.38
-Ashwini,Purva Bhadrapada,0.42
-Ashwini,Uttara Bhadrapada,0.64
-Ashwini,Revati,0.72
+Revati,Ashwini,72
+Revati,Bharani,69
+Revati,Krittika,32
+Revati,Rohini,53
+Revati,Mrigashirsha,74
+Revati,Ardra,72
+Revati,Punarvasu,69
+Revati,Pushya,72
+Revati,Ashlesha,33
+Revati,Magha,33
+Revati,Purva Phalguni,67
+Revati,Uttara Phalguni,69
+Revati,Hasta,66
+Revati,Chitra,43
+Revati,Swati,24
+Revati,Vishakha,18
+Revati,Anuradha,72
+Revati,Jyeshta,55
+Revati,Mula,72
+Revati,Purva Ashadha,83
+Revati,Uttara Ashadha,55
+Revati,Shravana,64
+Revati,Dhanishta,36
+Revati,Shatabhisha,42
+Revati,Purva Bhadrapada,68
+Revati,Uttara Bhadrapada,91
+Revati,Revati,77
+Uttara Bhadra,Ashwini,64
+Uttara Bhadra,Bharani,11
+Uttara Bhadra,Krittika,50
+Uttara Bhadra,Rohini,75
+Uttara Bhadra,Mrigashirsha,49
+Uttara Bhadra,Ardra,72
+Uttara Bhadra,Punarvasu,70
+Uttara Bhadra,Pushya,50
+Uttara Bhadra,Ashlesha,55
+Uttara Bhadra,Magha,50
+Uttara Bhadra,Purva Phalguni,44
+Uttara Bhadra,Uttara Phalguni,75
+Uttara Bhadra,Hasta,72
+Uttara Bhadra,Chitra,18
+Uttara Bhadra,Swati,53
+Uttara Bhadra,Vishakha,41
+Uttara Bhadra,Anuradha,47
+Uttara Bhadra,Jyeshta,55
+Uttara Bhadra,Mula,66
+Uttara Bhadra,Purva Ashadha,61
+Uttara Bhadra,Uttara Ashadha,83
+Uttara Bhadra,Shravana,80
+Uttara Bhadra,Dhanishta,17
+Uttara Bhadra,Shatabhisha,66
+Uttara Bhadra,Purva Bhadrapada,76
+Uttara Bhadra,Uttara Bhadrapada,77
+Uttara Bhadra,Revati,91
+Poorva Bhadrapada,Ashwini,42
+Poorva Bhadrapada,Bharani,62
+Poorva Bhadrapada,Krittika,54
+Poorva Bhadrapada,Rohini,60
+Poorva Bhadrapada,Mrigashirsha,69
+Poorva Bhadrapada,Ardra,48
+Poorva Bhadrapada,Punarvasu,41
+Poorva Bhadrapada,Pushya,60
+Poorva Bhadrapada,Ashlesha,39
+Poorva Bhadrapada,Magha,47
+Poorva Bhadrapada,Purva Phalguni,64
+Poorva Bhadrapada,Uttara Phalguni,39
+Poorva Bhadrapada,Hasta,38
+Poorva Bhadrapada,Chitra,45
+Poorva Bhadrapada,Swati,60
+Poorva Bhadrapada,Vishakha,49
+Poorva Bhadrapada,Anuradha,66
+Poorva Bhadrapada,Jyeshta,26
+Poorva Bhadrapada,Mula,41
+Poorva Bhadrapada,Purva Ashadha,66
+Poorva Bhadrapada,Uttara Ashadha,66
+Poorva Bhadrapada,Shravana,66
+Poorva Bhadrapada,Dhanishta,58
+Poorva Bhadrapada,Shatabhisha,51
+Poorva Bhadrapada,Purva Bhadrapada,68
+Poorva Bhadrapada,Uttara Bhadrapada,76
+Poorva Bhadrapada,Revati,68
+Shatabhisha,Ashwini,66
+Shatabhisha,Bharani,50
+Shatabhisha,Krittika,50
+Shatabhisha,Rohini,30
+Shatabhisha,Mrigashirsha,50
+Shatabhisha,Ardra,72
+Shatabhisha,Punarvasu,70
+Shatabhisha,Pushya,32
+Shatabhisha,Ashlesha,47
+Shatabhisha,Magha,38
+Shatabhisha,Purva Phalguni,32
+Shatabhisha,Uttara Phalguni,47
+Shatabhisha,Hasta,50
+Shatabhisha,Chitra,60
+Shatabhisha,Swati,80
+Shatabhisha,Vishakha,20
+Shatabhisha,Anuradha,30
+Shatabhisha,Jyeshta,68
+Shatabhisha,Mula,42
+Shatabhisha,Purva Ashadha,40
+Shatabhisha,Uttara Ashadha,47
+Shatabhisha,Shravana,68
+Shatabhisha,Dhanishta,58
+Shatabhisha,Shatabhisha,72
+Shatabhisha,Purva Bhadrapada,51
+Shatabhisha,Uttara Bhadrapada,66
+Shatabhisha,Revati,42
+Dhanishta,Ashwini,53
+Dhanishta,Bharani,26
+Dhanishta,Krittika,70
+Dhanishta,Rohini,53
+Dhanishta,Mrigashirsha,35
+Dhanishta,Ardra,50
+Dhanishta,Punarvasu,46
+Dhanishta,Pushya,24
+Dhanishta,Ashlesha,60
+Dhanishta,Magha,55
+Dhanishta,Purva Phalguni,19
+Dhanishta,Uttara Phalguni,40
+Dhanishta,Hasta,51
+Dhanishta,Chitra,50
+Dhanishta,Swati,65
+Dhanishta,Vishakha,70
+Dhanishta,Anuradha,31
+Dhanishta,Jyeshta,68
+Dhanishta,Mula,65
+Dhanishta,Purva Ashadha,26
+Dhanishta,Uttara Ashadha,51
+Dhanishta,Shravana,61
+Dhanishta,Dhanishta,63
+Dhanishta,Shatabhisha,77
+Dhanishta,Purva Bhadrapada,58
+Dhanishta,Uttara Bhadrapada,17
+Dhanishta,Revati,36
+Shravana,Ashwini,72
+Shravana,Bharani,77
+Shravana,Krittika,32
+Shravana,Rohini,50
+Shravana,Mrigashirsha,39
+Shravana,Ardra,61
+Shravana,Punarvasu,68
+Shravana,Pushya,75
+Shravana,Ashlesha,36
+Shravana,Magha,11
+Shravana,Purva Phalguni,50
+Shravana,Uttara Phalguni,61
+Shravana,Hasta,66
+Shravana,Chitra,58
+Shravana,Swati,61
+Shravana,Vishakha,36
+Shravana,Anuradha,72
+Shravana,Jyeshta,55
+Shravana,Mula,39
+Shravana,Purva Ashadha,61
+Shravana,Uttara Ashadha,58
+Shravana,Shravana,77
+Shravana,Dhanishta,61
+Shravana,Shatabhisha,47
+Shravana,Purva Bhadrapada,66
+Shravana,Uttara Bhadrapada,80
+Shravana,Revati,64
+Uttara Ashadha,Ashwini,66
+Uttara Ashadha,Bharani,72
+Uttara Ashadha,Krittika,30
+Uttara Ashadha,Rohini,37
+Uttara Ashadha,Mrigashirsha,55
+Uttara Ashadha,Ardra,67
+Uttara Ashadha,Punarvasu,58
+Uttara Ashadha,Pushya,63
+Uttara Ashadha,Ashlesha,27
+Uttara Ashadha,Magha,15
+Uttara Ashadha,Purva Phalguni,60
+Uttara Ashadha,Uttara Phalguni,68
+Uttara Ashadha,Hasta,64
+Uttara Ashadha,Chitra,55
+Uttara Ashadha,Swati,55
+Uttara Ashadha,Vishakha,32
+Uttara Ashadha,Anuradha,64
+Uttara Ashadha,Jyeshta,50
+Uttara Ashadha,Moola,36
+Uttara Ashadha,Purva Ashadha,77
+Uttara Ashadha,Uttara Ashadha,68
+Uttara Ashadha,Shravana,58
+Uttara Ashadha,Dhanishta,52
+Uttara Ashadha,Shatabhisha,63
+Uttara Ashadha,Purva Bhadrapada,66
+Uttara Ashadha,Uttara Bhadrapada,83
+Uttara Ashadha,Revati,55
+Purva Ashadha,Ashwini,66
+Purva Ashadha,Bharani,47
+Purva Ashadha,Krittika,47
+Purva Ashadha,Rohini,53
+Purva Ashadha,Mrigashirsha,40
+Purva Ashadha,Ardra,77
+Purva Ashadha,Punarvasu,65
+Purva Ashadha,Pushya,33
+Purva Ashadha,Ashlesha,42
+Purva Ashadha,Magha,53
+Purva Ashadha,Purva Phalguni,50
+Purva Ashadha,Uttara Phalguni,75
+Purva Ashadha,Hasta,75
+Purva Ashadha,Chitra,36
+Purva Ashadha,Swati,75
+Purva Ashadha,Vishakha,38
+Purva Ashadha,Anuradha,36
+Purva Ashadha,Jyeshta,44
+Purva Ashadha,Mula,77
+Purva Ashadha,Purva Ashadha,77
+Purva Ashadha,Uttara Ashadha,77
+Purva Ashadha,Shravana,61
+Purva Ashadha,Dhanishta,26
+Purva Ashadha,Shatabhisha,64
+Purva Ashadha,Purva Bhadrapada,66
+Purva Ashadha,Uttara Bhadrapada,61
+Purva Ashadha,Revati,83
+Mula,Ashwini,33
+Mula,Bharani,53
+Mula,Krittika,65
+Mula,Rohini,36
+Mula,Mrigashirsha,51
+Mula,Ardra,42
+Mula,Punarvasu,29
+Mula,Pushya,47
+Mula,Ashlesha,61
+Mula,Magha,66
+Mula,Purva Phalguni,35
+Mula,Uttara Phalguni,32
+Mula,Hasta,42
+Mula,Chitra,75
+Mula,Swati,63
+Mula,Vishakha,66
+Mula,Anuradha,41
+Mula,Jyeshta,39
+Mula,Mula,77
+Mula,Purva Ashadha,77
+Mula,Uttara Ashadha,36
+Mula,Shravana,39
+Mula,Dhanishta,65
+Mula,Shatabhisha,58
+Mula,Purva Bhadrapada,41
+Mula,Uttara Bhadrapada,66
+Mula,Revati,72
+Jyeshta,Ashwini,36
+Jyeshta,Bharani,53
+Jyeshta,Krittika,76
+Jyeshta,Rohini,67
+Jyeshta,Mrigashirsha,53
+Jyeshta,Ardra,14
+Jyeshta,Punarvasu,22
+Jyeshta,Pushya,55
+Jyeshta,Ashlesha,69
+Jyeshta,Magha,88
+Jyeshta,Purva Phalguni,66
+Jyeshta,Uttara Phalguni,39
+Jyeshta,Hasta,36
+Jyeshta,Chitra,62
+Jyeshta,Swati,41
+Jyeshta,Vishakha,72
+Jyeshta,Anuradha,86
+Jyeshta,Jyeshta,77
+Jyeshta,Mula,39
+Jyeshta,Purva Ashadha,44
+Jyeshta,Uttara Ashadha,50
+Jyeshta,Shravana,55
+Jyeshta,Dhanishta,68
+Jyeshta,Shatabhisha,47
+Jyeshta,Purva Bhadrapada,26
+Jyeshta,Uttara Bhadrapada,55
+Jyeshta,Revati,55
+Anuradha,Ashwini,66
+Anuradha,Bharani,47
+Anuradha,Krittika,60
+Anuradha,Rohini,80
+Anuradha,Mrigashirsha,47
+Anuradha,Ardra,53
+Anuradha,Punarvasu,62
+Anuradha,Pushya,47
+Anuradha,Ashlesha,53
+Anuradha,Magha,66
+Anuradha,Purva Phalguni,62
+Anuradha,Uttara Phalguni,80
+Anuradha,Hasta,72
+Anuradha,Chitra,23
+Anuradha,Swati,58
+Anuradha,Vishakha,59
+Anuradha,Anuradha,77
+Anuradha,Jyeshta,86
+Anuradha,Mula,41
+Anuradha,Purva Ashadha,36
+Anuradha,Uttara Ashadha,64
+Anuradha,Shravana,72
+Anuradha,Dhanishta,32
+Anuradha,Shatabhisha,61
+Anuradha,Purva Bhadrapada,66
+Anuradha,Uttara Bhadrapada,47
+Anuradha,Revati,72
+Vishakha,Ashwini,55
+Vishakha,Bharani,50
+Vishakha,Krittika,51
+Vishakha,Rohini,30
+Vishakha,Mrigashirsha,50
+Vishakha,Ardra,46
+Vishakha,Punarvasu,51
+Vishakha,Pushya,54
+Vishakha,Ashlesha,41
+Vishakha,Magha,54
+Vishakha,Purva Phalguni,55
+Vishakha,Uttara Phalguni,50
+Vishakha,Hasta,53
+Vishakha,Chitra,74
+Vishakha,Swati,40
+Vishakha,Vishakha,60
+Vishakha,Anuradha,59
+Vishakha,Jyeshta,72
+Vishakha,Mula,66
+Vishakha,Purva Ashadha,38
+Vishakha,Uttara Ashadha,32
+Vishakha,Shravana,36
+Vishakha,Dhanishta,70
+Vishakha,Shatabhisha,70
+Vishakha,Purva Bhadrapada,49
+Vishakha,Uttara Bhadrapada,41
+Vishakha,Revati,18
+Swati,Ashwini,70
+Swati,Bharani,78
+Swati,Krittika,32
+Swati,Rohini,42
+Swati,Mrigashirsha,50
+Swati,Ardra,75
+Swati,Punarvasu,74
+Swati,Pushya,69
+Swati,Ashlesha,30
+Swati,Magha,27
+Swati,Purva Phalguni,66
+Swati,Uttara Phalguni,69
+Swati,Hasta,72
+Swati,Chitra,65
+Swati,Swati,77
+Swati,Vishakha,40
+Swati,Anuradha,58
+Swati,Jyeshta,41
+Swati,Mula,63
+Swati,Purva Ashadha,75
+Swati,Uttara Ashadha,55
+Swati,Shravana,61
+Swati,Dhanishta,65
+Swati,Shatabhisha,61
+Swati,Purva Bhadrapada,60
+Swati,Uttara Bhadrapada,53
+Swati,Revati,24
+Chitra,Ashwini,47
+Chitra,Bharani,22
+Chitra,Krittika,61
+Chitra,Rohini,49
+Chitra,Mrigashirsha,37
+Chitra,Ardra,65
+Chitra,Punarvasu,58
+Chitra,Pushya,30
+Chitra,Ashlesha,67
+Chitra,Magha,58
+Chitra,Purva Phalguni,19
+Chitra,Uttara Phalguni,47
+Chitra,Hasta,79
+Chitra,Chitra,66
+Chitra,Swati,65
+Chitra,Vishakha,74
+Chitra,Anuradha,23
+Chitra,Jyeshta,62
+Chitra,Mula,75
+Chitra,Purva Ashadha,36
+Chitra,Uttara Ashadha,55
+Chitra,Shravana,58
+Chitra,Dhanishta,50
+Chitra,Shatabhisha,69
+Chitra,Purva Bhadrapada,45
+Chitra,Uttara Bhadrapada,18
+Chitra,Revati,43
+Hasta,Ashwini,27
+Hasta,Bharani,50
+Hasta,Krittika,44
+Hasta,Rohini,69
+Hasta,Mrigashirsha,82
+Hasta,Ardra,67
+Hasta,Punarvasu,57
+Hasta,Pushya,69
+Hasta,Ashlesha,53
+Hasta,Magha,39
+Hasta,Purva Phalguni,55
+Hasta,Uttara Phalguni,58
+Hasta,Hasta,77
+Hasta,Chitra,79
+Hasta,Swati,72
+Hasta,Vishakha,53
+Hasta,Anuradha,72
+Hasta,Jyeshta,36
+Hasta,Mula,42
+Hasta,Purva Ashadha,75
+Hasta,Uttara Ashadha,64
+Hasta,Shravana,66
+Hasta,Dhanishta,51
+Hasta,Shatabhisha,27
+Hasta,Purva Bhadrapada,38
+Hasta,Uttara Bhadrapada,72
+Hasta,Revati,66
+Uttara Phalguni,Ashwini,34
+Uttara Phalguni,Bharani,60
+Uttara Phalguni,Krittika,53
+Uttara Phalguni,Rohini,72
+Uttara Phalguni,Mrigashirsha,73
+Uttara Phalguni,Ardra,61
+Uttara Phalguni,Punarvasu,50
+Uttara Phalguni,Pushya,52
+Uttara Phalguni,Ashlesha,50
+Uttara Phalguni,Magha,55
+Uttara Phalguni,Purva Phalguni,80
+Uttara Phalguni,Uttara Phalguni,61
+Uttara Phalguni,Hasta,58
+Uttara Phalguni,Chitra,47
+Uttara Phalguni,Swati,69
+Uttara Phalguni,Vishakha,50
+Uttara Phalguni,Anuradha,80
+Uttara Phalguni,Jyeshta,39
+Uttara Phalguni,Mula,32
+Uttara Phalguni,Purva Ashadha,75
+Uttara Phalguni,Uttara Ashadha,68
+Uttara Phalguni,Shravana,61
+Uttara Phalguni,Dhanishta,40
+Uttara Phalguni,Shatabhisha,37
+Uttara Phalguni,Purva Bhadrapada,39
+Uttara Phalguni,Uttara Bhadrapada,75
+Uttara Phalguni,Revati,69
+Purva Phalguni,Ashwini,67
+Purva Phalguni,Bharani,47
+Purva Phalguni,Krittika,43
+Purva Phalguni,Rohini,66
+Purva Phalguni,Mrigashirsha,46
+Purva Phalguni,Ardra,75
+Purva Phalguni,Punarvasu,62
+Purva Phalguni,Pushya,39
+Purva Phalguni,Ashlesha,41
+Purva Phalguni,Magha,83
+Purva Phalguni,Purva Phalguni,77
+Purva Phalguni,Uttara Phalguni,80
+Purva Phalguni,Hasta,55
+Purva Phalguni,Chitra,19
+Purva Phalguni,Swati,66
+Purva Phalguni,Vishakha,55
+Purva Phalguni,Anuradha,61
+Purva Phalguni,Jyeshta,66
+Purva Phalguni,Mula,53
+Purva Phalguni,Purva Ashadha,50
+Purva Phalguni,Uttara Ashadha,60
+Purva Phalguni,Shravana,50
+Purva Phalguni,Dhanishta,19
+Purva Phalguni,Shatabhisha,50
+Purva Phalguni,Purva Bhadrapada,64
+Purva Phalguni,Uttara Bhadrapada,44
+Purva Phalguni,Revati,67
+Magha,Ashwini,55
+Magha,Bharani,53
+Magha,Krittika,47
+Magha,Rohini,28
+Magha,Mrigashirsha,57
+Magha,Ardra,58
+Magha,Punarvasu,51
+Magha,Pushya,50
+Magha,Ashlesha,41
+Magha,Magha,77
+Magha,Purva Phalguni,83
+Magha,Uttara Phalguni,55
+Magha,Hasta,39
+Magha,Chitra,58
+Magha,Swati,27
+Magha,Vishakha,54
+Magha,Anuradha,66
+Magha,Jyeshta,88
+Magha,Mula,66
+Magha,Purva Ashadha,53
+Magha,Uttara Ashadha,15
+Magha,Shravana,11
+Magha,Dhanishta,55
+Magha,Shatabhisha,66
+Magha,Purva Bhadrapada,47
+Magha,Uttara Bhadrapada,50
+Magha,Revati,33
+Ashlesha,Ashwini,75
+Ashlesha,Bharani,66
+Ashlesha,Krittika,57
+Ashlesha,Rohini,33
+Ashlesha,Mrigashirsha,47
+Ashlesha,Ardra,33
+Ashlesha,Punarvasu,60
+Ashlesha,Pushya,80
+Ashlesha,Ashlesha,77
+Ashlesha,Magha,41
+Ashlesha,Purva Phalguni,41
+Ashlesha,Uttara Phalguni,50
+Ashlesha,Hasta,53
+Ashlesha,Chitra,67
+Ashlesha,Swati,30
+Ashlesha,Vishakha,41
+Ashlesha,Anuradha,53
+Ashlesha,Jyeshta,69
+Ashlesha,Mula,61
+Ashlesha,Purva Ashadha,42
+Ashlesha,Uttara Ashadha,27
+Ashlesha,Shravana,36
+Ashlesha,Dhanishta,60
+Ashlesha,Shatabhisha,50
+Ashlesha,Purva Bhadrapada,39
+Ashlesha,Uttara Bhadrapada,55
+Ashlesha,Revati,33
+Pushya,Ashwini,83
+Pushya,Bharani,61
+Pushya,Krittika,68
+Pushya,Rohini,75
+Pushya,Mrigashirsha,41
+Pushya,Ardra,55
+Pushya,Punarvasu,76
+Pushya,Pushya,77
+Pushya,Ashlesha,80
+Pushya,Magha,50
+Pushya,Purva Phalguni,39
+Pushya,Uttara Phalguni,52
+Pushya,Hasta,69
+Pushya,Chitra,39
+Pushya,Swati,69
+Pushya,Vishakha,54
+Pushya,Anuradha,47
+Pushya,Jyeshta,55
+Pushya,Mula,47
+Pushya,Purva Ashadha,33
+Pushya,Uttara Ashadha,63
+Pushya,Shravana,75
+Pushya,Dhanishta,24
+Pushya,Shatabhisha,36
+Pushya,Purva Bhadrapada,60
+Pushya,Uttara Bhadrapada,50
+Pushya,Revati,72
+Punarvasu,Ashwini,55
+Punarvasu,Bharani,76
+Punarvasu,Krittika,56
+Punarvasu,Rohini,66
+Punarvasu,Mrigashirsha,67
+Punarvasu,Ardra,51
+Punarvasu,Punarvasu,57
+Punarvasu,Pushya,76
+Punarvasu,Ashlesha,60
+Punarvasu,Magha,51
+Punarvasu,Purva Phalguni,62
+Punarvasu,Uttara Phalguni,50
+Punarvasu,Hasta,57
+Punarvasu,Chitra,58
+Punarvasu,Swati,74
+Punarvasu,Vishakha,51
+Punarvasu,Anuradha,62
+Punarvasu,Jyeshta,22
+Punarvasu,Mula,29
+Punarvasu,Purva Ashadha,65
+Punarvasu,Uttara Ashadha,58
+Punarvasu,Shravana,68
+Punarvasu,Dhanishta,46
+Punarvasu,Shatabhisha,25
+Punarvasu,Purva Bhadrapada,41
+Punarvasu,Uttara Bhadrapada,70
+Punarvasu,Revati,69
+Ardra,Ashwini,44
+Ardra,Bharani,69
+Ardra,Krittika,49
+Ardra,Rohini,64
+Ardra,Mrigashirsha,78
+Ardra,Ardra,77
+Ardra,Punarvasu,51
+Ardra,Pushya,55
+Ardra,Ashlesha,33
+Ardra,Magha,58
+Ardra,Purva Phalguni,75
+Ardra,Uttara Phalguni,61
+Ardra,Hasta,67
+Ardra,Chitra,65
+Ardra,Swati,75
+Ardra,Vishakha,46
+Ardra,Anuradha,53
+Ardra,Jyeshta,14
+Ardra,Mula,42
+Ardra,Purva Ashadha,77
+Ardra,Uttara Ashadha,64
+Ardra,Shravana,61
+Ardra,Dhanishta,50
+Ardra,Shatabhisha,33
+Ardra,Purva Bhadrapada,48
+Ardra,Uttara Bhadrapada,72
+Ardra,Revati,72
+Mrigasira,Ashwini,61
+Mrigasira,Bharani,43
+Mrigasira,Krittika,54
+Mrigasira,Rohini,77
+Mrigasira,Mrigasira,64
+Mrigasira,Ardra,78
+Mrigasira,Punarvasu,67
+Mrigasira,Pushya,41
+Mrigasira,Ashlesha,47
+Mrigasira,Magha,57
+Mrigasira,Purva Phalguni,46
+Mrigasira,Uttara Phalguni,73
+Mrigasira,Hasta,82
+Mrigasira,Chitra,37
+Mrigasira,Swati,50
+Mrigasira,Vishakha,50
+Mrigasira,Anuradha,47
+Mrigasira,Jyeshta,53
+Mrigasira,Mula,51
+Mrigasira,Purva Ashadha,40
+Mrigasira,Uttara Ashadha,55
+Mrigasira,Shravana,39
+Mrigasira,Dhanishta,35
+Mrigasira,Shatabhisha,65
+Mrigasira,Purva Bhadrapada,69
+Mrigasira,Uttara Bhadrapada,49
+Mrigasira,Revati,74
+Rohini,Ashwini,62
+Rohini,Bharani,64
+Rohini,Krittika,30
+Rohini,Rohini,55
+Rohini,Mrigashirsha,77
+Rohini,Ardra,64
+Rohini,Punarvasu,66
+Rohini,Pushya,75
+Rohini,Ashlesha,33
+Rohini,Magha,28
+Rohini,Purva Phalguni,66
+Rohini,Uttara Phalguni,72
+Rohini,Hasta,69
+Rohini,Chitra,49
+Rohini,Swati,42
+Rohini,Vishakha,30
+Rohini,Anuradha,80
+Rohini,Jyeshta,67
+Rohini,Mula,36
+Rohini,Purva Ashadha,53
+Rohini,Uttara Ashadha,37
+Rohini,Shravana,50
+Rohini,Dhanishta,53
+Rohini,Shatabhisha,76
+Rohini,Purva Bhadrapada,60
+Rohini,Uttara Bhadrapada,75
+Rohini,Revati,53
+Krittika,Ashwini,61
+Krittika,Bharani,65
+Krittika,Krittika,65
+Krittika,Rohini,30
+Krittika,Mrigashirsha,54
+Krittika,Ardra,49
+Krittika,Punarvasu,56
+Krittika,Pushya,68
+Krittika,Ashlesha,57
+Krittika,Magha,47
+Krittika,Purva Phalguni,43
+Krittika,Uttara Phalguni,53
+Krittika,Hasta,44
+Krittika,Chitra,61
+Krittika,Swati,32
+Krittika,Vishakha,51
+Krittika,Anuradha,60
+Krittika,Jyeshta,76
+Krittika,Mula,65
+Krittika,Purva Ashadha,47
+Krittika,Uttara Ashadha,30
+Krittika,Shravana,32
+Krittika,Dhanishta,70
+Krittika,Shatabhisha,75
+Krittika,Purva Bhadrapada,54
+Krittika,Uttara Bhadrapada,50
+Krittika,Revati,32
+Bharani,Ashwini,91
+Bharani,Bharani,77
+Bharani,Krittika,65
+Bharani,Rohini,64
+Bharani,Mrigashirsha,43
+Bharani,Ardra,69
+Bharani,Punarvasu,76
+Bharani,Pushya,61
+Bharani,Ashlesha,66
+Bharani,Magha,53
+Bharani,Purva Phalguni,47
+Bharani,Uttara Phalguni,60
+Bharani,Hasta,50
+Bharani,Chitra,22
+Bharani,Swati,78
+Bharani,Vishakha,50
+Bharani,Anuradha,47
+Bharani,Jyeshta,35
+Bharani,Mula,35
+Bharani,Purva Ashadha,47
+Bharani,Uttara Ashadha,72
+Bharani,Shravana,77
+Bharani,Dhanishta,26
+Bharani,Shatabhisha,53
+Bharani,Purva Bhadrapada,62
+Bharani,Uttara Bhadrapada,11
+Bharani,Revati,69
+Ashwini,Ashwini,77
+Ashwini,Bharani,91
+Ashwini,Krittika,61
+Ashwini,Rohini,62
+Ashwini,Mrigashirsha,61
+Ashwini,Ardra,44
+Ashwini,Punarvasu,55
+Ashwini,Pushya,83
+Ashwini,Ashlesha,75
+Ashwini,Magha,55
+Ashwini,Purva Phalguni,67
+Ashwini,Uttara Phalguni,34
+Ashwini,Hasta,27
+Ashwini,Chitra,47
+Ashwini,Swati,70
+Ashwini,Vishakha,55
+Ashwini,Anuradha,66
+Ashwini,Jyeshta,36
+Ashwini,Mula,33
+Ashwini,Purva Ashadha,66
+Ashwini,Uttara Ashadha,66
+Ashwini,Shravana,72
+Ashwini,Dhanishta,53
+Ashwini,Shatabhisha,38
+Ashwini,Purva Bhadrapada,42
+Ashwini,Uttara Bhadrapada,64
+Ashwini,Revati,72
 
